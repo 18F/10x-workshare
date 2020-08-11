@@ -66,6 +66,7 @@ The CARES Act, Section 2108, allows for states with STC programs in place to rec
 ## Timeline
 Weeks
 | 1| 2 | 3| 4| 5 | 6| 7| 8 | 9| 10|
+| ---| --- | ---| ---| --- | ---| ---| --- | ---| ---|
 | Ramp up| Initial exploration | Desk research and line up interviews| Interviews & Partner development| Interviews & Partner development | Synthesis| Prototyping| Prototyping | Reflection and final deliverables|Wrap up|
 
 <sup>1</sup> https://www.insidecompensation.com/2020/04/05/the-cares-act-and-short-time-compensation-programs/
