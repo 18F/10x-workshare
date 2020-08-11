@@ -1,7 +1,7 @@
 # 10x-workshare
 
 ## Overview of short-time compensation
-For this (10x)[https://10x.gsa.gov/] project, the team has decided to focus on short-time compensation (STC), also referred to as work-share. 
+For this [10x](https://10x.gsa.gov/) project, the team has decided to focus on short-time compensation (STC), also referred to as work-share. 
 
 STC is a form of unemployment insurance (UI) that gives employers the option of reducing employees’ hours instead of cutting their workforce during a business slowdown. For example, a business may determine it needs to reduce personnel costs by laying off five employees until business improves. Under work-sharing, the employer could instead reduce the hours of 25 employees by 20 percent, and those workers would receive a pro-rated UI payment for their one day per week of unemployment, while maintaining any existing health and retirement benefits. By opting for work-sharing, the business is able to operate during a downturn without losing valued employees and is better positioned to ramp back up when economic conditions improve.
 
