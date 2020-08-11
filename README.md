@@ -69,6 +69,14 @@ Weeks
 | ---| --- | ---| ---| --- | ---| ---| --- | ---| ---|
 | Ramp up| Initial exploration | Desk research and line up interviews| Interviews & Partner development| Interviews & Partner development | Synthesis| Prototyping| Prototyping | Reflection and final deliverables|Wrap up|
 
+## Project details
+Staffing
+* Vicki McFadden, Product Manager, victoria.mcfadden@gsa.gov
+* Alicia Rouault, Product Manager, alicia.rouault@gsa.gov
+* Ayushi Roy, Product Manager, ayushi.roy@gsa.gov
+* Carrie Feher, Account Manager, carrie.feher@gsa.gov
+
+
 <sup>1</sup> https://www.insidecompensation.com/2020/04/05/the-cares-act-and-short-time-compensation-programs/
 
 <sup>2</sup> https://www.dol.gov/newsroom/releases/eta/eta20200504
