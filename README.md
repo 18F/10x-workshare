@@ -58,10 +58,15 @@ The CARES Act, Section 2108, allows for states with STC programs in place to rec
 ## Project goals
 | Priority        | Goal          | We know we’ve succeeded when... | 
 | ------------- |-------------| -----|
-| 1      | Document current state of Workshare delivery and identify areas for improvement to drive awareness or administrate STC. | (A) Journeymap and/or process map with employer, employee, and/or state employee experiences. (B) Identified area that would benefit from prototyping. (C) Technology and STC legislation audit of current systems and market saturation  |
+| 1      | Document current state of Workshare delivery and identify areas for improvement to drive awareness or administrate STC. | (A) Journeymap and/or process map with employer, employee, and/or state employee experiences. (B) Identified area that would benefit from prototyping. (C) Technology and STC legislation audit of current systems and market saturation.  |
 | 1      | Identify state and/or federal partner for prototyping.      |   Signed partnership agreement. |
 | 2 | Develop and test prototype.     |   Validate / test prototype with end-user(s). |
 | 3 | If applicable, defined path for continuing work.     |   (A) 10x Phase III funding request. (B) Lessons learned documented. |
+
+## Timeline
+Weeks
+| 1| 2 | 3| 4| 5 | 6| 7| 8 | 9| 10|
+| Ramp up| Initial exploration | Desk research and line up interviews| Interviews & Partner development| Interviews & Partner development | Synthesis| Prototyping| Prototyping | Reflection and final deliverables|Wrap up|
 
 <sup>1</sup> https://www.insidecompensation.com/2020/04/05/the-cares-act-and-short-time-compensation-programs/
 
