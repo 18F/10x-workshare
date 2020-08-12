@@ -3,7 +3,7 @@
 ## Project Overview
 An 18F team is currently investigating opportunities, challenges and barriers to entry around the state-led delivery of a federally-funded unemployment benefit program called short-time compensation, or “workshare.” 
 
-This project is funded by the [10x program](https://10x.gsa.gov/) with CARES Act funds. Workshare, or Short-time Compensation, is a program funded and administered by Department of Labor’s unemployment assistance department, and provides an alternative to layoffs for employers and employees. 
+This project is funded by the [10x](https://10x.gsa.gov/) program with CARES Act funds. Workshare, or Short-time Compensation, is a program funded and administered by Department of Labor’s unemployment assistance department, and provides an alternative to layoffs for employers and employees. 
 
 ## Short-time Compensation
 Short-time compensation (STC), also referred to as “work share” or “shared work” programs, are active in 26 states. STC is a form of unemployment insurance (UI) that gives employers the option of reducing employees’ hours instead of cutting their workforce during a business slowdown. 
