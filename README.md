@@ -12,7 +12,7 @@ For example, a business may come to a difficult decision that it needs to reduce
 
 With 11.1% of the United States population – or 17.8 million people – currently unemployed, (a 12 million increase since February) the need for STC to help ease the burden of the COVID-19 pandemic on employers and employees has never been higher<sup>3</sup>. Unfortunately, state workers are overwhelmed by the volume of UI and STC claims and necessary manual reviews and workflow. The use of STC has historically been relatively low (at its peak in 2010, the ratio of STC beneficiaries to regular unemployment compensation beneficiaries was 3%<sup>4</sup>) due lack of awareness of the program, administrative complexity for employers, and employer costs. This project intends to dig in on these processes and experiences to find opportunities for improvement. 
 
-## 2020 CARES Act STC benefits 
+## 2020 CARES Act Funding for STC
 Under the CARES Act, Congress approved additional short-time compensation benefits for state governments. The full legislation can be read here https://www.congress.gov/116/bills/hr748/BILLS-116hr748enr.pdf
 
 Highlights include: 
