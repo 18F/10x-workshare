@@ -10,9 +10,14 @@ Short-time compensation (STC), also referred to as “work share” or “shared
 
 For example, a business may come to a difficult decision that it needs to reduce personnel costs by laying off five employees until business improves. Under work sharing, the employer could instead reduce the hours of 25 employees by 20 percent, and those workers would receive a prorated UI payment for their one day per week of unemployment, while maintaining any existing health and retirement benefits. By opting for work-sharing, the business is able to operate during a downturn without losing valued employees and is better positioned to ramp back up when economic conditions improve.
 
-The CARES Act provides federal funding for 100% of STC paid by states with programs already in place<sup>1</sup> and $100 million in grants to help states in implementing and administering STC programs<sup>2</sup> for three years.
-
 With 11.1% of the United States population – or 17.8 million people – currently unemployed, (a 12 million increase since February) the need for STC to help ease the burden of the COVID-19 pandemic on employers and employees has never been higher<sup>3</sup>. Unfortunately, state workers are overwhelmed by the volume of UI and STC claims and necessary manual reviews and workflow. The use of STC has historically been relatively low (at its peak in 2010, the ratio of STC beneficiaries to regular unemployment compensation beneficiaries was 3%<sup>4</sup>) due lack of awareness of the program, administrative complexity for employers, and employer costs. This project intends to dig in on these processes and experiences to find opportunities for improvement. 
+
+## 2020 CARES Act STC benefits 
+Under the CARES Act, Congress approved additional short-time compensation benefits for state governments. The full legislation can be read here https://www.congress.gov/116/bills/hr748/BILLS-116hr748enr.pdf
+
+Highlights include: 
+- *Implementation Assistance Grants* $100 million in grants to help states in implementing and administering STC programs<sup>2</sup> for three years.
+- *Federal reimbursement for STC payments* The CARES Act provides federal funding for *100% of STC* paid by states with programs already in place<sup>1</sup>
 
 ## History of STC
 Work sharing has a decades-long history in the United States. For example, in the early 1930s, President Hoover encouraged employers to reduce employees’ hours instead of laying them off. In 1932, the President’s Organization on Unemployment Relief issued a report that concluded, “Reduction in the working time is the principal method of spreading employment” through such means as reduced days per week, reduced hours per day, or rotating time off.
