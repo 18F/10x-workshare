@@ -1,5 +1,5 @@
-# 10x Phase 2 Investigation 
-Unemployment Benefits - Workshare
+# Workshare Unemployment Benefit
+A 10x Phase 2 Investigation 
 
 ## Project Overview
 An [18F](https://18f.gsa.gov/) team is currently investigating opportunities, challenges and barriers to entry around the state-led delivery of a federally-funded unemployment benefit program called short-time compensation, or “workshare.” 
