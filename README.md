@@ -2,7 +2,7 @@
 A 10x Phase 2 Investigation 
 
 ## Project Overview
-An [18F](https://18f.gsa.gov/) team is currently investigating opportunities, challenges and barriers to entry around the state-led delivery of a federally-funded unemployment benefit program called short-time compensation, or “workshare.” 
+[18F](https://18f.gsa.gov/) is a digital service team within the General Services Administration made up of federal employees. The 18F team is currently investigating opportunities, challenges and barriers to entry around the state-led delivery of a federally-funded unemployment benefit program called short-time compensation, or “workshare.” 
 
 This phase 2 project is funded by the [10x](https://10x.gsa.gov/) program with CARES Act funds. Workshare, or Short-time Compensation, is a program funded by the Department of Labor’s Employment & Training Administration, and provides an alternative to layoffs for employers and employees. 
 
