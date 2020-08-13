@@ -3,7 +3,7 @@
 ## Project Overview
 An [18F](https://18f.gsa.gov/) team is currently investigating opportunities, challenges and barriers to entry around the state-led delivery of a federally-funded unemployment benefit program called short-time compensation, or “workshare.” 
 
-This project is funded by the [10x](https://10x.gsa.gov/) program with CARES Act funds. Workshare, or Short-time Compensation, is a program funded by the Department of Labor’s Employment & Training Administration, and provides an alternative to layoffs for employers and employees. 
+This phase 2 project is funded by the [10x](https://10x.gsa.gov/) program with CARES Act funds. Workshare, or Short-time Compensation, is a program funded by the Department of Labor’s Employment & Training Administration, and provides an alternative to layoffs for employers and employees. 
 
 ## Short-time Compensation
 Short-time compensation (STC), also referred to as “work share” or “shared work” programs, are active in 26 states. STC is a form of unemployment insurance (UI) that gives employers the option of reducing employees’ hours instead of cutting their workforce during a business slowdown. 
@@ -75,10 +75,10 @@ Weeks
 
 ## Project details
 Staffing
-* Vicki McFadden, Product Manager, victoria.mcfadden@gsa.gov
-* Alicia Rouault, Product Manager, alicia.rouault@gsa.gov
-* Ayushi Roy, Product Manager, ayushi.roy@gsa.gov
-* Carrie Feher, Account Manager, carrie.feher@gsa.gov
+* Vicki McFadden, victoria.mcfadden@gsa.gov
+* Alicia Rouault, alicia.rouault@gsa.gov
+* Ayushi Roy, ayushi.roy@gsa.gov
+* Carrie Feher, carrie.feher@gsa.gov
 
 ## References
 <sup>1</sup> https://www.insidecompensation.com/2020/04/05/the-cares-act-and-short-time-compensation-programs/
