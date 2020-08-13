@@ -1,4 +1,4 @@
-# Workshare Unemployment Benefit
+# Workshare Unemployment Benefits
 A 10x Phase 2 Investigation 
 
 ## Project Overview
